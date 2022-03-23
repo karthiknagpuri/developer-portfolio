@@ -2,24 +2,24 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	title: "Hi all, I'm Karthik Nagapuri",
 	description:
 		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
-	resumeLink: "https://cv.hanzla.ga",
+	resumeLink: "Karthik Nagapuri",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "karthiknagpuri",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/hanzla-tauqeer-0869281ba/",
+	facebook: "https://www.facebook.com/karthiknagpuri",
+	instagram: "https://www.instagram.com/karthiknagpuri",
+	twitter: "https://twitter.com/karthiknagpuri",
+	github: "https://github.com/karthiknagpuri",
+	linkedin: "https://www.linkedin.com/in/karthiknagpuri/",
 };
 
 export const skillsSection = {
@@ -127,18 +127,18 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Harvard University",
-		subHeader: "Master of Science in Computer Science",
+		schoolName: "Anurag University",
+		subHeader: "Artificial Inteligence",
 		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
+		desc: "Participated in the research of XXX and published 0 papers.",
 		descBullets: [
 			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		],
 	},
 	{
-		schoolName: "Harvard",
-		subHeader: "Master of Science in Computer Science",
+		schoolName: "MJPTBCWRIES",
+		subHeader: "MPC",
 		duration: "September 2017 - April 2019",
 		desc: "Participated in the research of XXX and published 3 papers.",
 		descBullets: [
@@ -147,10 +147,10 @@ export const educationInfo = [
 		],
 	},
 	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+		schoolName: "TSMS",
+		subHeader: "BSSC BOARD",
+		duration: "September 201 - April 2017",
+		desc: "Ranked top 2 in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
 		descBullets: [
 			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
 		],
@@ -160,7 +160,7 @@ export const educationInfo = [
 export const experience = [
 	{
 		role: "Software Engineer",
-		company: "Google",
+		company: "Feature India",
 		companylogo: "/img/icons/common/google.svg",
 		date: "June 2018 – Present",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -170,15 +170,15 @@ export const experience = [
 		],
 	},
 	{
-		role: "Front-End Developer",
-		company: "Github",
+		role: "Fullstack Developer",
+		company: "Texthappen",
 		companylogo: "/img/icons/common/github.svg",
 		date: "May 2017 – May 2018",
 		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
 	{
-		role: "Software Engineer Intern",
-		company: "Airbnb",
+		role: "Software Engineer ",
+		company: "Ixora Group",
 		companylogo: "/img/icons/common/airbnbLogo.png",
 		date: "Jan 2015 – Sep 2015",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -187,17 +187,17 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "lorem ipsum",
+		name: "SafebLock
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		link: "https://example.com",
 	},
 	{
-		name: "lorem ipsum",
+		name: "Feedbuzz",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/1hanzla100",
 	},
 	{
-		name: "lorem ipsum",
+		name: "lBlind Stick",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/1hanzla100",
 		link: "https://example.com",
@@ -206,7 +206,7 @@ export const projects = [
 
 export const feedbacks = [
 	{
-		name: "Hassan Mehmood",
+		name: "Sushanth Sunder",
 		feedback:
 			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
 	},
