@@ -22,7 +22,7 @@ export default function Home({ githubProfileData }) {
 					title: "Karthik Nagapuri",
 					description:
 						"A passionate Full Stack Web Developer and Mobile App Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+					image: "https://serving.photos.photobox.com/76253069ab814ea179161c6b8ca9069acdfb39e88ec4a8af862a063f117b686ca49dea8d.jpg",
 					url: "https://www.linkedin.com/in/karthiknagpuri/",
 					keywords: [
 						"Karthik NAGAPURI",
