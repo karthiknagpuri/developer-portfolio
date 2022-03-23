@@ -19,18 +19,18 @@ export default function Home({ githubProfileData }) {
 		<div>
 			<SEO
 				data={{
-					title: "Hanzla Tauqeer",
+					title: "Karthik Nagapuri",
 					description:
 						"A passionate Full Stack Web Developer and Mobile App Developer.",
 					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1hanzla100.vercel.app",
+					url: "https://www.linkedin.com/in/karthiknagpuri/",
 					keywords: [
-						"Hanzla",
-						"Hanzla Tauqeer",
-						"@1hanzla100",
-						"1hanzla100",
+						"Karthik NAGAPURI",
+						"Karthik Nagapuri",
+						"@Karthik Nagapuri",
+						"Karthik Nagapuri Googleboy",
 						"Portfolio",
-						"Hanzla Portfolio ",
+						"Karthik Nagapuri Portfolio ",
 						"Hanzla Tauqeer Portfolio",
 						"web developer",
 						"full stack",
